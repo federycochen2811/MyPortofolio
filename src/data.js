@@ -88,42 +88,63 @@ import Proyek1 from "/assets/proyek/Project1.webp";
 import Proyek2 from "/assets/proyek/Project2.webp";
 import Proyek3 from "/assets/proyek/Project3.webp";
 import Proyek4 from "/assets/proyek/Project4.webp";
+import Proyek5 from "/assets/proyek/Project3.webp";
+import Proyek6 from "/assets/proyek/Project4.webp";
 
 export const listProyek = [
+  
   {
     id: 1,
     gambar: Proyek1,
-    nama: "Climate Classification",
-    desk: "Deep Learning",
-    tools: ["Vscode", "Python", "Excel"],
-    link: "https://github.com/federycochen2811/Analisis-Iklim-Sleman-DIY",
+    nama: "AI Research Agent",
+    desk: "Large Language Model-Agent",
+    tools: ["Python", "Langchain", "Streamlit"],
+    link: "https://llm-ai-agent.streamlit.app/",
     dad: "200",
   },
   {
     id: 2,
     gambar: Proyek2,
-    nama: "Prediction Student Graduation",
-    desk: "Machine Learning",
-    tools: ["R Studio", "Excel,"],
-    link: "https://rpubs.com/WeyKuo/AnalisisKelulusanMahasiswa",
+    nama: "Climate Classification",
+    desk: "Deep Learning",
+    tools: ["Python", "Excel"],
+    link: "https://github.com/federycochen2811/Analisis-Iklim-Sleman-DIY",
     dad: "300",
   },
   {
     id: 3,
     gambar: Proyek3,
-    nama: "Payment Forecasting",
-    desk: "Classical Statistics",
-    tools: ["R Studio", "Excel,"],
-    link: "https://rpubs.com/WeyKuo/ExponentialSmoothing",
+    nama: "Clustering Classification Poverty Rate",
+    desk: "Machine learning",
+    tools: ["Python", "Excel"],
+    link: "https://github.com/federycochen2811/Reduksi-Clustering-Classification-Tingkat-Kemiskinan/tree/main",
     dad: "400",
   },
   {
     id: 4,
     gambar: Proyek4,
+    nama: "Prediction Student Graduation",
+    desk: "Machine Learning",
+    tools: ["R Studio", "Excel"],
+    link: "https://rpubs.com/WeyKuo/AnalisisKelulusanMahasiswa",
+    dad: "500",
+  },
+  {
+    id: 5,
+    gambar: Proyek5,
+    nama: "Payment Forecasting",
+    desk: "Classical Statistics",
+    tools: ["R Studio", "Excel"],
+    link: "https://rpubs.com/WeyKuo/ExponentialSmoothing",
+    dad: "600",
+  },
+  {
+    id: 6,
+    gambar: Proyek6,
     nama: "Sentimen Review Hotel",
     desk: "Natural Language Processing",
     tools: ["Collab", "Python", "Excel"],
     link: "https://github.com/federycochen2811/Analisis-Sentimen-Review-Hotel-UNY",
-    dad: "500",
+    dad: "700",
   },
   ];
