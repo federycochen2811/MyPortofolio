@@ -88,8 +88,8 @@ import Proyek1 from "/assets/proyek/Project1.webp";
 import Proyek2 from "/assets/proyek/Project2.webp";
 import Proyek3 from "/assets/proyek/Project3.webp";
 import Proyek4 from "/assets/proyek/Project4.webp";
-import Proyek5 from "/assets/proyek/Project3.webp";
-import Proyek6 from "/assets/proyek/Project4.webp";
+import Proyek5 from "/assets/proyek/Project5.webp";
+import Proyek6 from "/assets/proyek/Project6.webp";
 
 export const listProyek = [
   
