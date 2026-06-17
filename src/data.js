@@ -143,7 +143,7 @@ export const listProyek = [
     gambar: Proyek6,
     nama: "Sentimen Review Hotel",
     desk: "Natural Language Processing",
-    tools: ["Collab", "Python", "Excel"],
+    tools: ["Python", "Excel"],
     link: "https://github.com/federycochen2811/Analisis-Sentimen-Review-Hotel-UNY",
     dad: "700",
   },
